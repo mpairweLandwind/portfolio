@@ -151,14 +151,14 @@ export default function Portfolio() {
               <ProjectCard
                 title="AWS Serverless E-commerce Platform"
                 description="A scalable e-commerce platform built using AWS Lambda, API Gateway, DynamoDB, and S3 for high availability and performance."
-                image="/images/carreer.jpg"
+                image="/images/awsserveless.webp"
                 tags={["AWS", "Serverless", "DynamoDB", "Lambda"]}
               />
 
               <ProjectCard
                 title="Cloud-Based Healthcare Management System"
                 description="A secure healthcare management system deployed on AWS with HIPAA compliance, utilizing EC2, RDS, and Cognito for authentication."
-                image="/images/task.jpg"
+                image="/images/awsheath.webp"
                 tags={["AWS", "EC2", "RDS", "Security"]}
               />
 
@@ -166,14 +166,14 @@ export default function Portfolio() {
               <ProjectCard
                 title="Smart Home Automation System"
                 description="An IoT-based home automation system using Raspberry Pi, Arduino, and AWS IoT Core for remote monitoring and control of home appliances."
-                image="/images/zaloni.png"
+                image="/images/securityauto.webp"
                 tags={["IoT", "AWS IoT", "Raspberry Pi", "Arduino"]}
               />
 
               <ProjectCard
                 title="Agricultural Monitoring System"
                 description="An IoT solution for monitoring soil moisture, temperature, and humidity in agricultural fields, with data visualization and alerts."
-                image="/images/arola.png"
+                image="/images/openart-image_MH5vlRff_1744475821625_raw.jpg"
                 tags={["IoT", "Sensors", "Data Visualization", "AWS"]}
               />
 
@@ -181,14 +181,14 @@ export default function Portfolio() {
               <ProjectCard
                 title="Predictive Maintenance Model"
                 description="A machine learning model that predicts equipment failures before they occur, reducing downtime and maintenance costs for manufacturing clients."
-                image="/images/webinfo.png"
+                image="/images/predictive maintenance.webp"
                 tags={["Machine Learning", "Python", "TensorFlow", "Data Analysis"]}
               />
 
               <ProjectCard
                 title="Customer Sentiment Analysis"
                 description="NLP-based sentiment analysis tool that processes customer feedback and social media mentions to gauge brand perception and customer satisfaction."
-                image="/images/delipucash.png"
+                image="/images/sentimentanalysisz.webp"
                 tags={["NLP", "Machine Learning", "Python", "AWS Comprehend"]}
               />
 
@@ -203,7 +203,7 @@ export default function Portfolio() {
               <ProjectCard
                 title="Zaloni Dental Hub"
                 description="A modern Flutter-based application providing seamless access to dental services, appointments, and resources."
-                image="/images/zaloni.png"
+                image="/images/zaloni_icon.png"
                 tags={["Flutter", "Mobile Application"]}
               />
 
@@ -234,7 +234,7 @@ export default function Portfolio() {
                 description="Professional portfolio website showcasing my skills, projects, and experience."
                 image="/images/carreer.jpg"
                 tags={["HTML", "CSS", "JavaScript"]}
-                link="https://lauben.sh"
+                link=""
                 github="https://github.com/mpairwelandwind/github-portfolio"
               />
             </TabsContent>
@@ -244,14 +244,14 @@ export default function Portfolio() {
               <ProjectCard
                 title="AWS Serverless E-commerce Platform"
                 description="A scalable e-commerce platform built using AWS Lambda, API Gateway, DynamoDB, and S3 for high availability and performance."
-                image="/images/carreer.jpg"
+                 image="/images/awsserveless.webp"
                 tags={["AWS", "Serverless", "DynamoDB", "Lambda"]}
               />
 
               <ProjectCard
                 title="Cloud-Based Healthcare Management System"
                 description="A secure healthcare management system deployed on AWS with HIPAA compliance, utilizing EC2, RDS, and Cognito for authentication."
-                image="/images/task.jpg"
+                image="/images/awsheath.webp"
                 tags={["AWS", "EC2", "RDS", "Security"]}
               />
             </TabsContent>
@@ -261,7 +261,7 @@ export default function Portfolio() {
               <ProjectCard
                 title="Smart Home Automation System"
                 description="An IoT-based home automation system using Raspberry Pi, Arduino, and AWS IoT Core for remote monitoring and control of home appliances."
-                image="/images/zaloni.png"
+                image="/images/securityauto.webp"
                 tags={["IoT", "AWS IoT", "Raspberry Pi", "Arduino"]}
               />
 
@@ -278,14 +278,14 @@ export default function Portfolio() {
               <ProjectCard
                 title="Predictive Maintenance Model"
                 description="A machine learning model that predicts equipment failures before they occur, reducing downtime and maintenance costs for manufacturing clients."
-                image="/images/webinfo.png"
+              image="/images/predictive maintenance.webp"
                 tags={["Machine Learning", "Python", "TensorFlow", "Data Analysis"]}
               />
 
               <ProjectCard
                 title="Customer Sentiment Analysis"
                 description="NLP-based sentiment analysis tool that processes customer feedback and social media mentions to gauge brand perception and customer satisfaction."
-                image="/images/delipucash.png"
+                image="/images/sentimentanalysisz.webp"
                 tags={["NLP", "Machine Learning", "Python", "AWS Comprehend"]}
               />
             </TabsContent>
@@ -294,7 +294,7 @@ export default function Portfolio() {
               <ProjectCard
                 title="Zaloni Dental Hub"
                 description="A modern Flutter-based application providing seamless access to dental services, appointments, and resources."
-                image="/images/zaloni.png"
+                image="/images/zaloni_icon.png"
                 tags={["Flutter", "Mobile Application"]}
               />
 
