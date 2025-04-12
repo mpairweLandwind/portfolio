@@ -530,12 +530,12 @@ export default function Portfolio() {
                   <p>Makerere University</p>
                 </div>
               </div>
-
-              <Button asChild className="mt-4">
+              <Button asChild className="btn">
   <Link href="/images/resume.pdf" download>
     Download Resume
   </Link>
 </Button>
+
 
             </div>
           </div>
