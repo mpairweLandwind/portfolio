@@ -22,14 +22,7 @@
     "sizes": [256, 640, 1200, 1920],
     "domains": [],
     "remotePatterns": []
-  },
-  "headers": [
-      {
-        "source": "/(.*).pdf",
-        "headers": [
-          { "key": "Content-Type", "value": "application/pdf" }
-        ]
-      }
-    ]
+  }
+  
   }
 
