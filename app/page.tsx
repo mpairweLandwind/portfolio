@@ -531,7 +531,12 @@ export default function Portfolio() {
                 </div>
               </div>
 
-              <Button className="mt-4">Download Resume</Button>
+              <Button asChild className="mt-4">
+  <Link href="/images/resume.pdf" download>
+    Download Resume
+  </Link>
+</Button>
+
             </div>
           </div>
         </div>
