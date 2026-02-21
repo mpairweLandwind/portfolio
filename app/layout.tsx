@@ -20,6 +20,8 @@ export const metadata = {
     "DevOps Engineer Uganda",
     "Software Engineer Kampala",
     "AI ML Engineer",
+    "Full Stack Developer",
+    "Open Source and Enterprise FrameWork Developer",
     "Flutter Developer",
     "React Native Developer",
     "Spring Boot",
@@ -29,7 +31,7 @@ export const metadata = {
   authors: [{ name: "Mpairwe Lauben", url: "https://mpairweportfolio.vercel.app" }],
   openGraph: {
     title: "Mpairwe Lauben | DevOps & Software Engineer",
-    description: "DevOps, AI/ML, Full Stack & Mobile Engineer based in Kampala, Uganda.",
+    description: "DevOps,Enterprise, AI/ML, Full Stack & Mobile Engineer based in Kampala, Uganda.",
     url: "https://mpairweportfolio.vercel.app",
     siteName: "Mpairwe Lauben Portfolio",
     type: "website",

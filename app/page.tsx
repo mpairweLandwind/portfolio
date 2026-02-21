@@ -177,7 +177,7 @@ const EXPERIENCES = [
     company: "IONA Tech",
     role: "AI / ML Engineer",
     period: "Feb 2023 – Present",
-    type: "Full-time",
+    type: "Part-time",
     borderColor: "border-l-purple-500",
     bullets: [
       "Designed and trained ML models for classification, regression, and recommendation tasks",
@@ -191,7 +191,7 @@ const EXPERIENCES = [
   {
     company: "Makerere University",
     role: "Student Software Engineer",
-    period: "Jan 2022 – Dec 2023",
+    period: "Jan 2022 – Present",
     type: "Part-time",
     borderColor: "border-l-green-500",
     bullets: [
@@ -267,7 +267,7 @@ const EDUCATION = [
   {
     school: "Makerere University",
     degree: "Bachelor of Science in Computer Engineering",
-    period: "2021 – 2024",
+    period: "2019 – 2023",
     cgpa: "",
     borderColor: "border-l-blue-500",
     highlights: [
